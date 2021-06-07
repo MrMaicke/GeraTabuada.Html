@@ -1,0 +1,27 @@
+body {
+    background-color: whitesmoke;
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+}
+h1 {
+    color: rgb(0, 0, 0)
+}
+input{
+    border-radius: 1px;
+    border: solid 1px rgba(0, 0, 0, 0.26);
+}
+.tabuada1{
+    float:left;
+    width: 200px;
+    margin: 15px;
+    padding: 10px;
+    border: solid 1px rgba(0, 0, 0, 0.26);
+}
+.tabuada2{
+    background-color: lightblue;
+    float:left;
+    width: 200px;
+    margin: 15px;
+    padding: 10px;
+    border: solid 1px rgba(0, 0, 0, 0.26);
+}
